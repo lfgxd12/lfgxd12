@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Systems Engineering student passionate about continuous learning and self-improvement. I consider myself a self-taught developer who enjoys exploring new technologies and taking on challenges. I'm always open to collaborating and helping others grow along the way.
 
 
